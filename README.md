@@ -4,8 +4,6 @@ A touchdesigner example to output a Web interface to Syphon/Spout, NDI or a vide
 
 This is useful if you have a web page that you need to map on a surface with videoprojectors
 
-Note : Only render, no mouse interactivity
-
 ## Features
 
 Input
@@ -19,6 +17,11 @@ Output
 ## Use
 
 Setup your resolution in the web renderer
+
 Setup your resolution in the videomapping (for videomapping output)
 
-Note : With the free license of Touch designer you are limited to 1280x1280
+
+__________________________________________________________________________
+Note : With the free license of Touch designer output resolution is limited to 1280x1280
+
+Note : Only render, no mouse interactivity
