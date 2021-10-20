@@ -1,4 +1,4 @@
-# Web2NDI_SyphonSpout_TouchDesigner
+# Web 2 NDI Syphon/Spout Touch Designer example
 
 A touchdesigner example to output a Web interface to Syphon/Spout, NDI or a videomapping module
 
@@ -13,5 +13,10 @@ Output
 - NDI
 - Syphon / Spout
 - Fullscreen with videomapping (Kantan)
+
+## Use
+
+Setup your resolution in the web renderer
+Setup your resolution in the videomapping (for videomapping output)
 
 Note : With the free license of Touch designer you are limited to 1280x1280
