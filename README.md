@@ -2,6 +2,8 @@
 
 A touchdesigner example to output a Web interface to Syphon/Spout, NDI or a videomapping module
 
+This is useful if you have a web page that you need to map on a surface with videoprojectors
+
 Note : Only render, no mouse interactivity
 
 ## Features
